@@ -1,0 +1,12 @@
+.abovehead{
+    background-color: #f7f2e7;
+    color: black;
+    height: 40px;
+    display: flex;
+}
+
+.account_logo{
+   display: flex;
+   margin-top: 5px;
+
+}

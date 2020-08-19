@@ -1,0 +1,11 @@
+.image_prop{
+    object-fit: contain;
+    width: 180px;
+    height: 180px;
+    margin-right: 20px;
+}
+
+
+.title_and_price{
+    margin-top: 20px;
+}

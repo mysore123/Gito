@@ -1,0 +1,17 @@
+
+.main>h1{
+    margin-left:20px ;
+    font-size: 50px;
+    margin-bottom:30px ;
+}
+
+.divider{
+    width: 45%;
+    margin-left:20px ;
+}
+
+.MoreProducts{
+    margin-left: 20px;
+    margin-top: 20px;
+    display: inline-block;
+}
